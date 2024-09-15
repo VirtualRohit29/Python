@@ -1,2 +1,2 @@
 # Python
-coding oporactices of python
+python programs and projects 
