@@ -1,1 +1,2 @@
-twinklw twinkle little star
+twinklw twinkle little startable of 5 is : [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
+table of 5 is : [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]
